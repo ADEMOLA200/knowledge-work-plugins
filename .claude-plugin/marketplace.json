@@ -579,7 +579,7 @@
         "url": "https://github.com/ServiceNow/sdk.git",
         "path": "providers/claude/plugin",
         "ref": "main",
-        "sha": "255d35e94e5393e9f36e7ca2789dee83a8aa7f47"
+        "sha": "f3e0379242b29e0039e1625d637aa1c246acbe12"
       },
       "homepage": "https://servicenow.github.io/sdk/"
     },
